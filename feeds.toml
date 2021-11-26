@@ -5,7 +5,7 @@ entrySelector = "div.layer_main div.layer_content div.onair_list div.swiper-cont
 titleSelector = "p.description"
 linkSelector = "a.link"
 contentSelector = "span.title"
-imageSelector = "div.thumb_area img.thumbnail"
+imageSelector = "a.link div.thumb_area img.thumbnail"
 waitForSelector = "div.onair_list div.swiper-container div.swiper-wrapper"
 
 [navertv]
