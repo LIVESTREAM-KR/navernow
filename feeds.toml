@@ -6,7 +6,8 @@ titleSelector = "p.description"
 linkSelector = "a.link"
 contentSelector = "span.title"
 imageSelector = "a.link div.thumb_area img.thumbnail"
-waitForSelector = "div.layer_main div.layer_content div.onair_list div.swiper-container div.swiper-wrapper div.swiper-slide"
+waitUntil = "networkidle"
+onFail = "stale"
 
 [navertv]
 title = "네이버 나우. ─ NAVER TV"
