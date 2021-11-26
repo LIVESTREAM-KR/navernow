@@ -29,3 +29,12 @@ linkSelector = "div.text_area a.link_end"
 imageSelector = "div.image_area a img"
 contentSelector = "p.text_feed.ell"
 waitUntil = "networkidle"
+
+[linkinbio]
+title = "NAVER NOW. ─ Link in Bio"
+url = "https://linkin.bio/now-kr"
+entrySelector = "section[class='tLb--content__postList eLb--content__postList qa--linkinbio_grid'] div[class='o--cardContainer tLb--content__cardContainer']"
+titleSelector = "*"
+linkSelector = "a.o--card"
+imageSelector = "figure.o--card__mediaContainer img"
+waitUntil = "networkidle"
