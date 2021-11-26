@@ -1,5 +1,5 @@
 [now]
-title = "NAVER NOW ─ 지금 방송중"
+title = "NAVER NOW. ─ 지금 방송중"
 url = "http://now.naver.com/listen"
 entrySelector = "div.layer_main div.layer_content div.onair_list div.swiper-container div.swiper-wrapper div.swiper-slide"
 titleSelector = "p.description"
@@ -10,7 +10,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [navertv]
-title = "네이버 나우 ─ NAVER TV"
+title = "네이버 나우. ─ NAVER TV"
 url = "https://tv.naver.com/nowkr/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
@@ -21,7 +21,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [naverpost]
-title = "NAVER NOW ─ 네이버 포스트"
+title = "NAVER NOW. ─ 네이버 포스트"
 url = "https://m.post.naver.com/my.naver?memberNo=46872110"
 entrySelector = "ul.lst_feed li._cds.check_visible"
 titleSelector = "strong.tit_feed.ell"
