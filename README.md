@@ -7,4 +7,4 @@ https://livestream-kr.github.io/navernow/all.xml
 
 ---
 
-[✌ V LIVE](https://github.com/LIVESTREAM-KR/vlive) | [📺 NAVER TV](https://github.com/LIVESTREAM-KR/navertv)
+[📺 NAVER TV](https://github.com/LIVESTREAM-KR/navertv) | [✌ V LIVE](https://github.com/LIVESTREAM-KR/vlive)
