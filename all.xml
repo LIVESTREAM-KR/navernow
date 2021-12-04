@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 14:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 15:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 K-팝 파티!
+우리의 소리를 찾아서 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[슬픔의 케이팝 파티]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
         <item>
             <title><![CDATA[추억을 만나요~📻
 그때 in 가요 (NAVER NOW. ─ 지금 방송중)]]></title>
@@ -35,21 +44,21 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[방과후 설렘 
-1회 확장판 (NAVER NOW. ─ 지금 방송중)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 방과후 설렘]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
             <title><![CDATA[야생돌 비하인드
 리얼 야생 적응기 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
             <content:encoded><![CDATA[MBC 극한데뷔 야생돌]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[방과후 설렘 
+1회 확장판 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 방과후 설렘]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -89,31 +98,12 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[올데이 야작실
-고퀄 밴드라이브 (NAVER NOW. ─ 지금 방송중)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[야간작업실]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
             <title><![CDATA[오늘의 뮤지션💎
 저스틴 팀버레이크 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
             <content:encoded><![CDATA[너에게 음악]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
-            <title><![CDATA[우탄과 버기
-그리고 쿤디판다
-미란이와 제미나이 (NAVER NOW. ─ 지금 방송중)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[RAP HOUSE ON AIR]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -126,13 +116,22 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[3대 기획사는 어디?
-슬케파 선거특집!
-선택 케이팝 2021! (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[실제로 물 속에
+들어와있는 기분!
+물소리 ASMR (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[슬픔의 케이팝 파티]]></content:encoded>
+            <content:encoded><![CDATA[선아와 꿈꾸는 밤 ASMR]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 오래 가요
+82-83회 몰아보기 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Fri, 26 Nov 2021 20:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[우리 오래 가요]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
