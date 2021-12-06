@@ -1,156 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=46872110</id>
-    <title>NAVER NOW. ─ 네이버 포스트</title>
-    <updated>2021-12-06T11:19:22.784Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[안내] 2021년 11월 30일 올데이뮤직 쇼 종영 안내]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=32695081&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=32695081&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.957Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS의 첫 나우쇼 <A butterful Getaway with BTS>]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=31904720&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=31904720&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.957Z</updated>
-        <content type="html"><![CDATA[7월 9일 금요일 밤 9시 BTS 최.초.공.개!7/9(금) 밤 9시, BTS의 첫 나우 쇼 &lt;A butterful Getaway with BTS&gt;이 방송됩니다. 오직 나우에서만 독.점.공.개 하는 멤버들의 캠핑장 토크와 세계 최초로 공···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<방과후 설렘> 프리퀄 시즌 
-<등교 전 망설임> 9월 Coming Soon]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=31841191&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=31841191&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.957Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC 글로벌 걸그룹 프로젝트 
-<방과후 설레임>]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=31624360&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=31624360&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.957Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] 2021년 1월 31일 모바일 데이터 무료 서비스 종료 안내드립니다]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=30589249&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=30589249&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.962Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<#OUTNOW 백예린> 본방 사수 이벤트]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=30172124&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=30172124&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.962Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<심야아이돌-트레저 편> 본방 사수 이벤트]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=29952868&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=29952868&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.962Z</updated>
-        <content type="html"><![CDATA[### 축하합니다! 이벤트 당첨자 명단을 발표합니다! 당첨되신 분들께는 이벤트 응모시 사용하신 트위터 쪽지를 통해 별도의 당첨안내 드렸습니다 다시 한번 참여해 주신 모든 분들에게 감사드립니다! :-) - 해당···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 듣고 싶었던 NOW. 쇼! VIBE앱에서 만나보세요.]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=29654045&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=29654045&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.962Z</updated>
-        <content type="html"><![CDATA[NOW.의 팬 여러분들이 너무나 기다리셨던 NOW. 다시 듣기 기능이 드디어 VIBE앱 2.0 내 오픈하였습니다! ‘박재범 &lt;Broken GPS&gt;’ ‘폴킴 &lt;우리 만남이&gt;’ 부터 ‘하성운 &lt;···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XR라이브로 펼쳐지는 KPOP파티 <PARTY B>]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=29531993&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=29531993&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.962Z</updated>
-        <content type="html"><![CDATA[PARTY B XR라이브로 펼쳐지는 KPOP파티 9월 28일 밤 9시 네이버앱으로 여러분을 초대합니다.역대급 라인업을 방구석 1열에서 만날 수 있는 흔하지 않은 기회! 보다 생생하게 XR라이브로 준비된 총 9팀의 스테이지를 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 승우,승식의 <이불킥>, 
-화요일 밤 9시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=28826311&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=28826311&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.962Z</updated>
-        <content type="html"><![CDATA[이불킥 화요일 밤 9시 네이버 앱 NOW.잘생긴얘 옆에 잘생긴 얘... 승우와 승식이가 인증?! 승승이의 목소리로 사알짝 듣고 싶은 노래와 사연이 있다면? 이번주도 이불킥 고고~!NOW. 이불킥 방송 정보 방송듣기 화요···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(종료) 폴킴의 <우리 만남이>, 
-화요일 밤 7시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=28826149&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=28826149&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.962Z</updated>
-        <content type="html"><![CDATA[우리 만남이 화요일 밤 7시 네이버 앱 NOW.감성 천재 폴킴의 인생을 스쳐간 사람들은 누가누가 있을까? 인연의 소중함을 되새기고자 시작한 폴킴의 '우리 만남이' 너무 소중해!NOW. 우리 만남이 방송 정보 방송듣기 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(종료) DAY6 원필,도운의 <음악이 모임>, 
-목요일 밤 5시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=28825793&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=28825793&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.964Z</updated>
-        <content type="html"><![CDATA[음악이 모임 목요일 밤 5시 네이버 앱 NOW.'필토벤'과 '도짜르트'가 즉석 작사 작곡으로 만들어가는 쇼. 원필, 도운이 만들어가는 음악이란 무엇일까? (음악이 모임~?)NOW. 음악이모임 방송 정보 방송듣기 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(종료) pH-1의 <소울푸드>, 
-금요일, 밤 10시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=28824522&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=28824522&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.965Z</updated>
-        <content type="html"><![CDATA[pH-1의 소울푸드 금요일 밤 10시 네이버 앱 NOW.pH-1이 운영하는 심야 칵테일 바에 초대합니다~! 전회차 보이는 라디오로 진행되는 pH-1의 소울푸드 보면서 소울 충전하러 가시죠 - !NOW. 소울푸드 방송 정보 방송듣···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라비의 <?퀘스천마크>, 
-월,수, 금 밤 7시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=28815906&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=28815906&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.966Z</updated>
-        <content type="html"><![CDATA[? 퀘스천마크 월,수 밤 7시 네이버 앱 NOW.세상의 모든 물음표(?)를 없애기 위해 라비가 준비한 단독쇼. 다양한 분야의 궁금증들을 라비와 함께 풀어볼까요?NOW. ?퀘스천마크 방송 정보 방송듣기 월,수, 금···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적재의 <야간작업실>, 
-월-금 밤 11시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966444&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966444&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.970Z</updated>
-        <content type="html"><![CDATA[야간작업실 월-금 밤 11시 네이버 앱 NOW.심야에 딱 어울리는 잔잔한 심야 오디오쇼. 뮤지션의 뮤지션 적재는 어떤 뮤지션들을 좋아할까? 적재의 가슴에서 우러나오는 음악덕질 이야기... 들어 봅시다NOW. 야간작업···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(종료) 데이식스의 <소셜클럽데이>, 
-화, 목 오후 2시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966359&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966359&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.971Z</updated>
-        <content type="html"><![CDATA[소셜클럽데이 화, 목 오후 2시 네이버 앱 NOW."사람들은 뭘 하고 살까?" 데이식스가 운영하는 다양하고 흥미로운 취미 공유 클럽에 놀러와NOW. 소셜클럽데이 방송 정보 방송듣기 화,목 오후 2시 다시듣기 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(시즌1 종료) 자이언티의 <SAP>,
-목요일 밤 8시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966338&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966338&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.974Z</updated>
-        <content type="html"><![CDATA[SAP 목요일 오후 8시 네이버 앱 NOW.당신의 삽질에 주목하는 오디오 ver. 1인 토크쇼 &lt;자이언티의 SAP&gt;! 매주 다양한 게스트를 초대해 삽질하는 이야기 해볼게요NOW. SAP 방송 정보 방송듣기 목요일 오후 8시 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유병재의 <누리끼리>,
-평일 오후 7시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966326&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966326&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.975Z</updated>
-        <content type="html"><![CDATA[누리끼리 평일 오후 7시 네이버 앱 NOW.연애썰, 영화썰, 덕후감, 내 귀에 띵곡! 매일 마다 병재만이 할 수 있는 색다른 코너들로 병재스러운 빅재미・꿀재미 선사!NOW. 누리끼리 방송 정보 방송듣기 월-금 오후 7시 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도티의 <오구오구>,
-평일 오후 5시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966292&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966292&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.978Z</updated>
-        <content type="html"><![CDATA[오구오구 평일 오후 5시 네이버 앱 NOW. 입시, 취업, 직장생활의 스트레스에서 단 1시간이라도 벗어나 즐겁게 들을 수 있는 오디오쇼 오늘도 귀호강 달달 도라이브! 꿀통에 빠져~ 봅시다!NOW. 오구오구 방송 정보 방···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피오 민호의<Brrrr Friends>,
-수요일 밤 12시 30분]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966282&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966282&amp;memberNo=46872110"/>
-        <updated>2021-12-06T11:19:15.979Z</updated>
-        <content type="html"><![CDATA[Brrrr Friends 수요일 밤 12시 30분 네이버 앱 NOW.Brrrr 친구둘이 놀면 뭐하니? 후라이들아 같이 놀자!! 민호/피오가 하고싶은거 다 하는 심야 예능 쇼NOW. Brrrr Friends 방송 정보 방송듣기 수요일 밤 12시 30분 ···]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 나우. ─ NAVER TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 Dec 2021 12:31:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM]]></title>
+            <link>https://tv.naver.com/v/22362966</link>
+            <guid>https://tv.naver.com/v/22362966</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210909_200/8PQGJ_1631178793315zeQkn_JPEG/1631178570300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버앱에서 보는 XR라이브 KPOP파티ㅣ10/26 (월) 밤 9시]]></title>
+            <link>https://tv.naver.com/v/16347970</link>
+            <guid>https://tv.naver.com/v/16347970</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201022_86/kecnA_1603351484066Y8P8v_PNG/1603351383485.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트레저가 파티에 초대해✨ | NOW.]]></title>
+            <link>https://tv.naver.com/v/15960824</link>
+            <guid>https://tv.naver.com/v/15960824</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200925_222/rPMlx_1601024489155J2589_JPEG/1601024458589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT127이 파티에 초대해✨ | NOW.]]></title>
+            <link>https://tv.naver.com/v/15960805</link>
+            <guid>https://tv.naver.com/v/15960805</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200925_10/cO0KI_1601024436841EMoCK_JPEG/1601024396235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY가 파티에 초대해✨ | NOW.]]></title>
+            <link>https://tv.naver.com/v/15960773</link>
+            <guid>https://tv.naver.com/v/15960773</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200925_250/oh5m1_1601024377609E9ULa_JPEG/1601024306438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KPOP 파티에 여러분을 초대합니다🥂 ㅣ NOW.]]></title>
+            <link>https://tv.naver.com/v/15936324</link>
+            <guid>https://tv.naver.com/v/15936324</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200924_284/OsUSW_1600912685810gfJMK_PNG/1600912582766.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버앱은 지금 방송 중 ㅣ NOW.]]></title>
+            <link>https://tv.naver.com/v/15467462</link>
+            <guid>https://tv.naver.com/v/15467462</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200827_60/AuKun_1598514636727Ns10m_JPEG/1598514612678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MONSTA X 민혁이 화실을 차렸다!? ㅣ  #보그싶쇼 TEASER]]></title>
+            <link>https://tv.naver.com/v/14944712</link>
+            <guid>https://tv.naver.com/v/14944712</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200724_102/MAz51_1595555776206XoLM9_JPEG/1595555520298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[야간작업실] LUCY(루시) - 별 보러 가자 (원곡: 적재) LIVE 🎵]]></title>
+            <link>https://tv.naver.com/v/14527546</link>
+            <guid>https://tv.naver.com/v/14527546</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200629_115/xDe2q_1593409205233sqnV5_JPEG/b1cf0c26-b9ca-11ea-8955-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[야간작업실] LUCY(루시) - 선잠 LIVE 🎼]]></title>
+            <link>https://tv.naver.com/v/14527503</link>
+            <guid>https://tv.naver.com/v/14527503</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200629_106/7mAIy_1593409075620nvuxr_JPEG/6c69168e-b9ca-11ea-be00-a0369ff968b0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[야간작업실] 밴드 LUCY와 함께 야간합주실 문 열었습니다🥕]]></title>
+            <link>https://tv.naver.com/v/14527470</link>
+            <guid>https://tv.naver.com/v/14527470</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200629_22/1ptnj_1593408937566D2IkG_JPEG/cc00a1ed-b9c9-11ea-98d4-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[침입자스페셜] 송지효 김무열이 고민상담 해드립니다👭]]></title>
+            <link>https://tv.naver.com/v/14090129</link>
+            <guid>https://tv.naver.com/v/14090129</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[9:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200602_97/oWouC_1591092755007BShNp_JPEG/52220eb9-a4b9-11ea-b233-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[침입자스페셜] 송지효, 김무열의 침입자 토크쇼 feat. 손원평 감독님과의 깜짝 전화연결]]></title>
+            <link>https://tv.naver.com/v/14090085</link>
+            <guid>https://tv.naver.com/v/14090085</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[8:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200602_178/9L38w_1591092631546VXg1F_JPEG/a2f5b2a2-a4b8-11ea-888c-505dacfba98a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[침입자스페셜] 내 마음 속 침입자, 누구야 너 👀]]></title>
+            <link>https://tv.naver.com/v/14089984</link>
+            <guid>https://tv.naver.com/v/14089984</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[8:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200602_218/Cz3u0_1591092331527J8EBc_JPEG/0f80fa98-a4b8-11ea-8b3f-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[침입자스페셜] 똑똑똑똑. 송지효 김무열의 소름끼치는 오프닝 배달왔어요🛵🛵🛵]]></title>
+            <link>https://tv.naver.com/v/14089883</link>
+            <guid>https://tv.naver.com/v/14089883</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[15:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200602_22/CZoqA_1591092078065tELt2_JPEG/8633e6af-a4b7-11ea-8ee2-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[6시5분전] H&D 도현 데뷔 전 자작곡 이름이 '너는'인 이유는?]]></title>
+            <link>https://tv.naver.com/v/13927103</link>
+            <guid>https://tv.naver.com/v/13927103</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200522_4/INDLM_1590138858677ptoeH_JPEG/119e02e7-9c0c-11ea-b233-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[6시5분전] 뮤비와는 다른 순둥순둥한 매력! H&D가 찾아왔어요]]></title>
+            <link>https://tv.naver.com/v/13926994</link>
+            <guid>https://tv.naver.com/v/13926994</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[7:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200522_122/hkCN5_1590138574459Bjbfx_JPEG/60cd140d-9c0a-11ea-b5c3-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 권정열과 고영배의 행복해지는 라이브🎤]]></title>
+            <link>https://tv.naver.com/v/13910431</link>
+            <guid>https://tv.naver.com/v/13910431</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[10:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_176/hneil_1590054269708DsHaN_JPEG/6bcc362a-9b47-11ea-b233-48df37ae3fca_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 쉴 틈 없는 권정열&고영배의 비하인드 토크!]]></title>
+            <link>https://tv.naver.com/v/13910394</link>
+            <guid>https://tv.naver.com/v/13910394</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[13:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_104/mLalq_1590054112080raG7B_JPEG/a15c2d13-9b46-11ea-83f8-505dac8c385b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 라비를 위해 영업하는 팬들! 모두 라비하세요 🌟]]></title>
+            <link>https://tv.naver.com/v/13910317</link>
+            <guid>https://tv.naver.com/v/13910317</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[12:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_298/FSF24_1590053802202I2LSb_JPEG/bee3cc30-9b45-11ea-8b3f-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 일기에 라비 왔다!💜]]></title>
+            <link>https://tv.naver.com/v/13910214</link>
+            <guid>https://tv.naver.com/v/13910214</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[8:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_73/Sa6OX_1590053413062ErsxE_JPEG/a651e3d8-9b43-11ea-bdaa-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 한요한과 같이 일기 쓰자✍️]]></title>
+            <link>https://tv.naver.com/v/13909945</link>
+            <guid>https://tv.naver.com/v/13909945</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_145/kHOzX_1590052528942Jxwi9_JPEG/74ddd385-9b43-11ea-bf97-505dac8c37f3_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 한요한 라이브 같이 듣자! 👀]]></title>
+            <link>https://tv.naver.com/v/13909919</link>
+            <guid>https://tv.naver.com/v/13909919</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[8:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_189/wv4yl_1590052454222Uw5HM_JPEG/ce3f19f3-9b42-11ea-9723-a0369ff968b0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 산다는 건 다 그런게 아니겠니 LIVE🎧]]></title>
+            <link>https://tv.naver.com/v/13909840</link>
+            <guid>https://tv.naver.com/v/13909840</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_78/x1at8_1590052175428HxInn_JPEG/51384408-9b42-11ea-b0c3-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 듣기만 해도 행복해지는 여행스케치 라이브💚]]></title>
+            <link>https://tv.naver.com/v/13909769</link>
+            <guid>https://tv.naver.com/v/13909769</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_12/UAM4T_159005196382901Gr2_JPEG/e6c0412e-9b41-11ea-a03a-00000000464c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 여행스케치 - 왠지 느낌이 좋아 LIVE🍀]]></title>
+            <link>https://tv.naver.com/v/13909719</link>
+            <guid>https://tv.naver.com/v/13909719</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[5:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_284/GS5rP_1590051787771cjgVp_JPEG/acef136f-9b41-11ea-b8b5-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 너에게 난, 나에게 넌 LIVE💛]]></title>
+            <link>https://tv.naver.com/v/13909687</link>
+            <guid>https://tv.naver.com/v/13909687</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_50/IFl54_1590051683014Ls0FJ_JPEG/640ca0df-9b41-11ea-b2d5-000000004708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 자탄풍의 아름다운 라이브✨✨✨]]></title>
+            <link>https://tv.naver.com/v/13909641</link>
+            <guid>https://tv.naver.com/v/13909641</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_259/vFJHK_1590051569453nXtbK_JPEG/9f1cac31-9b40-11ea-9300-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 자탄풍 라이브 메들리🎤]]></title>
+            <link>https://tv.naver.com/v/13909524</link>
+            <guid>https://tv.naver.com/v/13909524</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_290/IcCfW_159005123508482GQ2_JPEG/39e62e39-9b40-11ea-b0c3-505dac8c38f5_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤이즈일기] 마음 설레는 자탄풍 라이브🌿]]></title>
+            <link>https://tv.naver.com/v/13909448</link>
+            <guid>https://tv.naver.com/v/13909448</guid>
+            <pubDate>Mon, 06 Dec 2021 12:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200521_273/uobDx_1590051066619jSccF_JPEG/65aa5cc3-9b3f-11ea-b0c3-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
