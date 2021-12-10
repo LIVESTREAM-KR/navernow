@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -552,6 +552,43 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22998293&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22998293&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Fri, 10 Dec 2021 08:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22998293&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/0f01d28dd66663-LIB22998293/med_thumbnail.jpg?1639123645 240w, https://d320y51nxi12gs.cloudfront.net/sized/0f01d28dd66663-LIB22998293/large_thumbnail.jpg?1639123645 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/0f01d28dd66663-LIB22998293/med_thumbnail.jpg?1639123645" alt="#네이버NOW스튜디오
+
+오늘도 입담폭발 #댸니쇼 💙와
+응수엔터의 보라빛 보석💟 #퍼플키스
+박지은&amp;나고은까지💜
+
+이번주도 알록달록 알찼던 나우쇼!
+오늘도 #네이버NOW 본방사수🤘
+
+☑️프로필 링크를 눌러" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+        <span class="tLB--media__label tLB--media__label--type">
+  
+    <div style="width:15px" class="u--block">
+  
+  <i class="o--icon o--icon--gallery"></i>
+
+</div>
+
+
+  
+</span>
+
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/0f01d28dd66663-LIB22998293/med_thumbnail.jpg?1639123645" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/player/13316?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22997372&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
             <guid>https://now.naver.com/player/13316?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22997372&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
             <pubDate>Fri, 10 Dec 2021 07:19:26 GMT</pubDate>
@@ -601,14 +638,7 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Wed, 08 Dec 2021 11:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22932343&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/e50e820c844494-LIB22932343/med_thumbnail.jpg?1638961268 240w, https://d320y51nxi12gs.cloudfront.net/sized/e50e820c844494-LIB22932343/large_thumbnail.jpg?1638961268 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/e50e820c844494-LIB22932343/med_thumbnail.jpg?1638961268" alt="추운 #겨울 ⛄️따뜻하게 해주는 #비니 ☺️
-
-나우 호스트들의 비니 패션 모음📁
-여러분의 pick은? 👀
-
-☑️프로필 링크를 눌러 보고싶은 쇼 알림🔔 설정하기!
-☑️다시 보기는 VIBE 앱에서!" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
@@ -626,7 +656,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
 
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/e50e820c844494-LIB22932343/med_thumbnail.jpg?1638961268" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -894,32 +923,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
     <div style="width:15px" class="u--block">
   
   <i class="o--icon o--icon--video"></i>
-
-</div>
-
-
-  
-</span>
-
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22800738&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
-            <guid>https://now.naver.com/show?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22800738&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
-            <pubDate>Fri, 03 Dec 2021 03:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22800738&amp;utm_medium=social&amp;utm_source=linkin.bio">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-        <span class="tLB--media__label tLB--media__label--type">
-  
-    <div style="width:15px" class="u--block">
-  
-  <i class="o--icon o--icon--gallery"></i>
 
 </div>
 
