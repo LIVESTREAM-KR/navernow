@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 04:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -494,6 +494,27 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/4?utm_source=feed_nightantena_1215&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23121612&amp;utm_medium=social</link>
+            <guid>https://now.naver.com/show/4?utm_source=feed_nightantena_1215&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23121612&amp;utm_medium=social</guid>
+            <pubDate>Wed, 15 Dec 2021 05:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4?utm_source=feed_nightantena_1215&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23121612&amp;utm_medium=social">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/9804647d3457fc-LIB23121612/med_thumbnail.jpg?1639544116 240w, https://d320y51nxi12gs.cloudfront.net/sized/9804647d3457fc-LIB23121612/large_thumbnail.jpg?1639544116 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/9804647d3457fc-LIB23121612/med_thumbnail.jpg?1639544116" alt="#야간작업실 with #안테나 엔젤스😇
+
+오늘 야작실은 겨울에 어울리는 따뜻한 목소리의 안테나 뮤직 이진아, 권진아, 샘김 &amp; 적스트와 함께합니다. 
+
+겨울이니까.. 우리끼리 옹기종기 모여앉아 도란도란" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/9804647d3457fc-LIB23121612/med_thumbnail.jpg?1639544116" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/2495?utm_source=fEed_spiderman_1215&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23120522&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/2495?utm_source=fEed_spiderman_1215&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23120522&amp;utm_medium=social</guid>
             <pubDate>Wed, 15 Dec 2021 03:20:32 GMT</pubDate>
@@ -537,18 +558,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Tue, 14 Dec 2021 12:30:35 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/13359?utm_source=post_OUTNOWMINO_1214&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23094735&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/cfd71aea100442-LIB23094735/med_thumbnail.jpg?1639483603 240w, https://d320y51nxi12gs.cloudfront.net/sized/cfd71aea100442-LIB23094735/large_thumbnail.jpg?1639483603 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/cfd71aea100442-LIB23094735/med_thumbnail.jpg?1639483603" alt="<#OUTNOW_MINO> D-1
-✨NOW. 에서 열리는 #MINO 정규 3집 앨범 [“TO INFINITY.”] 컴백 스페셜 쇼✨
-
-타이틀곡 <탕!♡> 과 수록곡, 대표곡들까지 #밴드라이브 로 들려줄 예정!" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/cfd71aea100442-LIB23094735/med_thumbnail.jpg?1639483603" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -845,21 +861,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
   
 </span>
 
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/3530?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22924680&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
-            <guid>https://now.naver.com/show/3530?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22924680&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
-            <pubDate>Wed, 08 Dec 2021 02:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/3530?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-22924680&amp;utm_medium=social&amp;utm_source=linkin.bio">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
     </figure>
   </a>]]></content:encoded>
         </item>
