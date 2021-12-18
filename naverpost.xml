@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.post.naver.com/my.naver?memberNo=46872110</id>
     <title>NAVER NOW. ─ 네이버 포스트</title>
-    <updated>2021-12-18T01:06:02.169Z</updated>
+    <updated>2021-12-18T02:40:54.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<방과후 설렘> 알림 설정 이벤트]]></title>
+        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=32965519&amp;memberNo=46872110</id>
+        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=32965519&amp;memberNo=46872110"/>
+        <updated>2021-12-18T02:40:46.026Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] 2021년 11월 30일 올데이뮤직 쇼 종영 안내]]></title>
         <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=32695081&amp;memberNo=46872110</id>
@@ -144,13 +150,5 @@
         <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966292&amp;memberNo=46872110"/>
         <updated>2021-12-06T12:31:02.670Z</updated>
         <content type="html"><![CDATA[오구오구 평일 오후 5시 네이버 앱 NOW. 입시, 취업, 직장생활의 스트레스에서 단 1시간이라도 벗어나 즐겁게 들을 수 있는 오디오쇼 오늘도 귀호강 달달 도라이브! 꿀통에 빠져~ 봅시다!NOW. 오구오구 방송 정보 방···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피오 민호의<Brrrr Friends>,
-수요일 밤 12시 30분]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966282&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966282&amp;memberNo=46872110"/>
-        <updated>2021-12-06T12:31:02.672Z</updated>
-        <content type="html"><![CDATA[Brrrr Friends 수요일 밤 12시 30분 네이버 앱 NOW.Brrrr 친구둘이 놀면 뭐하니? 후라이들아 같이 놀자!! 민호/피오가 하고싶은거 다 하는 심야 예능 쇼NOW. Brrrr Friends 방송 정보 방송듣기 수요일 밤 12시 30분 ···]]></content>
     </entry>
 </feed>
