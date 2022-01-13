@@ -4,15 +4,52 @@
         <title>NAVER NOW. ─ 지금 방송중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 23:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 01:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[<밤샘IN가요>📻]]></title>
+            <title><![CDATA[사연 보내고🍩,
+퀴즈 맞추고🥠!]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[장스트릿]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조 댄서들과
+함께 노라~🕺🏽]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[JOJO CLUB]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[이세준모닝 📞🎤
+홍경민의 폰서트]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA[그때in가요]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[올데이 야작실
+고퀄 밴드라이브]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[야간작업실]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[📌 1/14 11AM
+'해적' 빙고 독점 인터뷰]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;해적:도깨비깃발&gt; 온라인 제작보고회]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -40,6 +77,24 @@
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA[내일은 국민가수 토크콘서트]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA['안다영'의
+온스테이지🎙]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[온스테이지2.0]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[업텐션에게
+미쳤다💗]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[점심어택]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
