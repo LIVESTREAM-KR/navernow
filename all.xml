@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 06:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -503,6 +503,25 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/player/10257?utm_source=post_aomix_0114&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23797308&amp;utm_medium=social</link>
+            <guid>https://now.naver.com/player/10257?utm_source=post_aomix_0114&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23797308&amp;utm_medium=social</guid>
+            <pubDate>Fri, 14 Jan 2022 07:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/10257?utm_source=post_aomix_0114&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23797308&amp;utm_medium=social">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/ab4fdccbd9a6ba-LIB23797308/med_thumbnail.jpg?1642142545 240w, https://d320y51nxi12gs.cloudfront.net/sized/ab4fdccbd9a6ba-LIB23797308/large_thumbnail.jpg?1642142545 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/ab4fdccbd9a6ba-LIB23797308/med_thumbnail.jpg?1642142545" alt="매주 금요일 밤 9시에는 #AOMIX LIVE!
+이번주 금요일은 @jesseyou @kona_thefuture 의 믹스셋과 함께해보세요! 🤍
+@aomixofficial 에서 비하인더씬 영상들도 놓치지 마세요!" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/ab4fdccbd9a6ba-LIB23797308/med_thumbnail.jpg?1642142545" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/541?utm_source=feed_want_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23793983&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/541?utm_source=feed_want_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23793983&amp;utm_medium=social</guid>
             <pubDate>Fri, 14 Jan 2022 02:41:05 GMT</pubDate>
@@ -555,21 +574,13 @@ WANT #효진초이 #모아나
             <pubDate>Thu, 13 Jan 2022 05:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4?utm_source=post_jukjaeTHEWHALES_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23765652&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/55feb56557a4ae-LIB23765652/med_thumbnail.jpg?1642050430 240w, https://d320y51nxi12gs.cloudfront.net/sized/55feb56557a4ae-LIB23765652/large_thumbnail.jpg?1642050430 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/55feb56557a4ae-LIB23765652/med_thumbnail.jpg?1642050430" alt="#더웨일즈 in <#야간작업실>
-
-#슈퍼밴드2 출신 밴드! ‘더 웨일즈’가 #야작실에 옵니다🐳
-
-지난번 프론트맨 특집으로 놀러왔던 리더 #양장세민 의 뒤를 이어 이번엔 완전체로 출동😆
-
-슈퍼밴드2가 끝나고의" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/55feb56557a4ae-LIB23765652/med_thumbnail.jpg?1642050430" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -822,21 +833,6 @@ WANT #효진초이 #모아나
   
 </span>
 
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/1509?utm_source=post_music2uZIONT_0104&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23527344&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/1509?utm_source=post_music2uZIONT_0104&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23527344&amp;utm_medium=social</guid>
-            <pubDate>Tue, 04 Jan 2022 03:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/1509?utm_source=post_music2uZIONT_0104&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23527344&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
     </figure>
   </a>]]></content:encoded>
         </item>
