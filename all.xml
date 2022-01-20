@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 12:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 13:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -446,6 +446,70 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://vibe.naver.com/playlist/keyword_0613?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23949227&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://vibe.naver.com/playlist/keyword_0613?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23949227&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Thu, 20 Jan 2022 13:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://vibe.naver.com/playlist/keyword_0613?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23949227&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/53228ab4b7f91d-LIB23949227/med_thumbnail.jpg?1642681956 240w, https://d320y51nxi12gs.cloudfront.net/sized/53228ab4b7f91d-LIB23949227/large_thumbnail.jpg?1642681956 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/53228ab4b7f91d-LIB23949227/med_thumbnail.jpg?1642681956" alt="2022년 한 해가 잘 풀리는 새해 첫 곡🎵
+
+여러분은 어떤 노래로 새해를 시작했나요? 🧐
+댓글로 알려주세요😎🤟!!
+
+☑️ 프로필 링크를 눌러 새해 첫곡 플레이리스트 듣기🎼
+☑️ 다시보기는 VIBE 앱에서!" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+        <span class="tLB--media__label tLB--media__label--type">
+  
+    <div style="width:15px" class="u--block">
+  
+  <i class="o--icon o--icon--gallery"></i>
+
+</div>
+
+
+  
+</span>
+
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/53228ab4b7f91d-LIB23949227/med_thumbnail.jpg?1642681956" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/4238?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23949234&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/show/4238?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23949234&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Thu, 20 Jan 2022 13:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4238?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23949234&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/d1974375740001-LIB23949234/med_thumbnail.jpg?1642681967 240w, https://d320y51nxi12gs.cloudfront.net/sized/d1974375740001-LIB23949234/large_thumbnail.jpg?1642681967 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/d1974375740001-LIB23949234/med_thumbnail.jpg?1642681967" alt="<ENHYPEN NOW : ANSWER> #엔하이픈 의 인사영상이 도착했어요 💌
+​
+NOW. 옥탑방에서 #ENHYPEN 의 정규 1집 리패키지 앨범 <DIMMENSION : ANSWER>의 퍼포먼스 무대와 재밌는" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+        <span class="tLB--media__label tLB--media__label--type">
+  
+    <div style="width:15px" class="u--block">
+  
+  <i class="o--icon o--icon--video"></i>
+
+</div>
+
+
+  
+</span>
+
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/d1974375740001-LIB23949234/med_thumbnail.jpg?1642681967" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/3453?utm_source=post_muscilife_0120&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23940889&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/3453?utm_source=post_muscilife_0120&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23940889&amp;utm_medium=social</guid>
             <pubDate>Thu, 20 Jan 2022 03:18:41 GMT</pubDate>
@@ -473,20 +537,13 @@ Ep9. 밤은 더 외로워만 지고🌙
             <pubDate>Thu, 20 Jan 2022 01:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/376?utm_source=post_moonnightHOOK_0120&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23939233&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/b840835a38fb33-LIB23939233/med_thumbnail.jpg?1642640957 240w, https://d320y51nxi12gs.cloudfront.net/sized/b840835a38fb33-LIB23939233/large_thumbnail.jpg?1642640957 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/b840835a38fb33-LIB23939233/med_thumbnail.jpg?1642640957" alt="#훅 HOOK 완전체 in <#studio문나잇>
-
-#유죄인간 언니들 훅이 문나잇에 완전체로 왔다📣
-댄스 더 훅나잇!💃🏻🕺🏻
-2021년 누구보다 바빴던 언니들의 TMI 토크 나눠보구요🗣
-#문별 의 신곡" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/b840835a38fb33-LIB23939233/med_thumbnail.jpg?1642640957" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -495,20 +552,13 @@ Ep9. 밤은 더 외로워만 지고🌙
             <pubDate>Wed, 19 Jan 2022 11:16:23 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/5?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23914977&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/7850c882b2c9ed-LIB23914977/med_thumbnail.jpg?1642589995 240w, https://d320y51nxi12gs.cloudfront.net/sized/7850c882b2c9ed-LIB23914977/large_thumbnail.jpg?1642589995 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/7850c882b2c9ed-LIB23914977/med_thumbnail.jpg?1642589995" alt="심야아이돌_SF9인성편_한_장_요약.jpg
-
-#기현 호스트가 데려온 첫 번째 친구 #SF9 #인성 🐹🐹
-그리고 인성씨가 가져온 내꺼짐💼
-1️⃣강동원 혹은 최민수의 우산씬 그 어딘가…☂️
-2️⃣눈이 콩알만 해지는" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/7850c882b2c9ed-LIB23914977/med_thumbnail.jpg?1642589995" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -718,36 +768,6 @@ Ep9. 밤은 더 외로워만 지고🌙
             <guid>https://now.naver.com/show/4?utm_source=post_jukjaeTHEWHALES_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23765652&amp;utm_medium=social</guid>
             <pubDate>Thu, 13 Jan 2022 05:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4?utm_source=post_jukjaeTHEWHALES_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23765652&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/4095?utm_source=post_gookminsinger_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23765114&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/4095?utm_source=post_gookminsinger_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23765114&amp;utm_medium=social</guid>
-            <pubDate>Thu, 13 Jan 2022 04:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4095?utm_source=post_gookminsinger_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23765114&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/5?utm_source=post_midnightidolPIL_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23763208&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/5?utm_source=post_midnightidolPIL_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23763208&amp;utm_medium=social</guid>
-            <pubDate>Thu, 13 Jan 2022 01:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/5?utm_source=post_midnightidolPIL_0113&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23763208&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
