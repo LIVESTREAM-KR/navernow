@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 01:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 02:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -465,6 +465,29 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/5?utm_source=post_midnightidolMOONBYUL_0125&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24058135&amp;utm_medium=social</link>
+            <guid>https://now.naver.com/show/5?utm_source=post_midnightidolMOONBYUL_0125&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24058135&amp;utm_medium=social</guid>
+            <pubDate>Tue, 25 Jan 2022 02:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/5?utm_source=post_midnightidolMOONBYUL_0125&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24058135&amp;utm_medium=social">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/4d252bbe108a3d-LIB24058135/med_thumbnail.jpg?1643073071 240w, https://d320y51nxi12gs.cloudfront.net/sized/4d252bbe108a3d-LIB24058135/large_thumbnail.jpg?1643073071 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/4d252bbe108a3d-LIB24058135/med_thumbnail.jpg?1643073071" alt="#문별 in <#심야아이돌>
+#문나잇 의 호스트! 사랑둥이 아기햄찌 #문스타 문별이❤️
+#LUNATIC 활동 마무리하고 놀러왔어요!
+
+심야아이돌에 새로운 햄찌의 등장이라..✨
+최고햄찌 문별💕
+명창햄찌" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/4d252bbe108a3d-LIB24058135/med_thumbnail.jpg?1643073071" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/12?utm_source=feed_lunchattack_lachica_0124&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025034&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/12?utm_source=feed_lunchattack_lachica_0124&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025034&amp;utm_medium=social</guid>
             <pubDate>Mon, 24 Jan 2022 03:22:11 GMT</pubDate>
@@ -534,22 +557,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Fri, 21 Jan 2022 05:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/593?utm_source=feed_txt_0121&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23974582&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/eb4431c619d997-LIB23974582/med_thumbnail.jpg?1642741436 240w, https://d320y51nxi12gs.cloudfront.net/sized/eb4431c619d997-LIB23974582/large_thumbnail.jpg?1642741436 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/eb4431c619d997-LIB23974582/med_thumbnail.jpg?1642741436" alt="🍑#최강창민 × #범규 🐻
-​
-프금에 등장한 훈훈함 가득😌 꽃미남🌸
-스페셜 셰프👨🏻 🍳 창민의 사랑 듬뿍받은🥰
-시고르 경영식 황금 알바생✨
-#투모로우바이투게더 범규 놀러왔어요🐻
-​
-창민 범규 케미" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/eb4431c619d997-LIB23974582/med_thumbnail.jpg?1642741436" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -796,21 +810,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>https://now.naver.com/show/4233?utm_source=post_JMH_0116&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23834873&amp;utm_medium=social</guid>
             <pubDate>Sun, 16 Jan 2022 03:22:30 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4233?utm_source=post_JMH_0116&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23834873&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/player/10257?utm_source=post_aomix_0114&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23797308&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/player/10257?utm_source=post_aomix_0114&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23797308&amp;utm_medium=social</guid>
-            <pubDate>Fri, 14 Jan 2022 07:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/10257?utm_source=post_aomix_0114&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-23797308&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
