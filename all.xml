@@ -4,21 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 09:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 10:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[설에도 꿀케미💙
-라포엠X덴호이 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[꽃 피면 달 생각하고
+몰아보기 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[점심어택]]></content:encoded>
+            <content:encoded><![CDATA[꽃 피면 달 생각하고]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[까치 설날에
-가족들과 텐션업 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[고향이 디즈니?
+설날엔 이봄소리! (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[커튼콜 뮤지컬쇼]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[설특집 라이브
+대세 트롯 격돌 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
@@ -40,15 +49,6 @@
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA[MBC 극한데뷔 야생돌]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
-            <title><![CDATA[⭐ Check-In 🗝
-B.F (보이프렌드) (NAVER NOW. ─ 지금 방송중)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[심야아이돌]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
