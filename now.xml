@@ -4,7 +4,7 @@
         <title>NAVER NOW. ─ 지금 방송중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 01:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 02:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,8 +17,17 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[연휴에도모샤라마
-미치도록듣고싶다]]></title>
+            <title><![CDATA[윤상과 트레이드엘
+본격적인 음악토크]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[너에게 음악]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[신청곡 배달부
+이상우와 함께]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
@@ -40,6 +49,24 @@
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA[MBC 극한데뷔 야생돌]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[올데이 야작실
+고퀄 밴드라이브]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[야간작업실]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[🎉설날특집파티
+전국 세뱃돈 자랑!]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[슬픔의 케이팝 파티]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
