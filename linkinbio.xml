@@ -4,9 +4,43 @@
         <title>NAVER NOW. ─ Link in Bio</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 10:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 11:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24313171&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24313171&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Thu, 03 Feb 2022 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24313171&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/97d841eee58f28-LIB24313171/med_thumbnail.jpg?1643883897 240w, https://d320y51nxi12gs.cloudfront.net/sized/97d841eee58f28-LIB24313171/large_thumbnail.jpg?1643883897 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/97d841eee58f28-LIB24313171/med_thumbnail.jpg?1643883897" alt="#네이버NOW스튜디오
+
+설 연휴 나우와 함께 즐겁게 보내셨나요?!
+#모모랜드 와 텐션업했던 #프리허그 와 배우 #정준하 와 함께했던 #커튼콜까지!
+
+설 연휴에도 풍성했던 나우 쇼🌈
+
+남은 한 주도 나우와" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+        <span class="tLB--media__label tLB--media__label--type">
+  
+    <div style="width:15px" class="u--block">
+  
+  <i class="o--icon o--icon--gallery"></i>
+
+</div>
+
+
+  
+</span>
+
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/97d841eee58f28-LIB24313171/med_thumbnail.jpg?1643883897" length="0" type="image/jpg"/>
+        </item>
         <item>
             <link>https://now.naver.com/show/593?utm_source=feed_freehug_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24309505&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/593?utm_source=feed_freehug_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24309505&amp;utm_medium=social</guid>
@@ -60,13 +94,7 @@
             <pubDate>Thu, 03 Feb 2022 00:59:36 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/1509?utm_source=feed_toyoumusic_0202&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24305385&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/3240b7234d8c8d-LIB24305385/med_thumbnail.jpg?1643849541 240w, https://d320y51nxi12gs.cloudfront.net/sized/3240b7234d8c8d-LIB24305385/large_thumbnail.jpg?1643849541 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/3240b7234d8c8d-LIB24305385/med_thumbnail.jpg?1643849541" alt="#국민가수 #박창근 #박장현 #김희석 in #너에게음악 
-
-내가 좋아하는 뮤지션이 어떻게 탄생하게 되었는지 직접 확인할 수 있는 ‘오디션 프로그램’ 
-
-그곳에서 진짜 꿈을 이룬 #국가단 의 멤버!
-박창근, 박장현," data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
@@ -84,7 +112,6 @@
 
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/3240b7234d8c8d-LIB24305385/med_thumbnail.jpg?1643849541" length="0" type="image/jpg"/>
         </item>
         <item>
             <link>https://now.naver.com/show/5?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24272902&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
@@ -290,31 +317,6 @@
 
       <!---->
       <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <link>https://now.naver.com/show/12?utm_source=feed_lunchattack_lachica_0124&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025034&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/12?utm_source=feed_lunchattack_lachica_0124&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025034&amp;utm_medium=social</guid>
-            <pubDate>Mon, 24 Jan 2022 03:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/12?utm_source=feed_lunchattack_lachica_0124&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025034&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-        <span class="tLB--media__label tLB--media__label--type">
-  
-    <div style="width:15px" class="u--block">
-  
-  <i class="o--icon o--icon--gallery"></i>
-
-</div>
-
-
-  
-</span>
-
     </figure>
   </a>]]></content:encoded>
         </item>
