@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,31 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/593?utm_source=feed_freehug_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24309505&amp;utm_medium=social</link>
+            <guid>https://now.naver.com/show/593?utm_source=feed_freehug_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24309505&amp;utm_medium=social</guid>
+            <pubDate>Thu, 03 Feb 2022 06:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/593?utm_source=feed_freehug_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24309505&amp;utm_medium=social">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/med_thumbnail.jpg?1643867861 240w, https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/large_thumbnail.jpg?1643867861 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/med_thumbnail.jpg?1643867861" alt="#이영지 in #프리허그
+
+약속 지키러 온 게스트✌🏻
+프블리💜 대리설렘 준비완료?!🤩
+
+밍스트🍑 Z세대 최고인싸 영지와😆 텐션 지붕 뚫어🆙
+이번주 마무리도 불타는 프금으로❤️‍🔥
+
+☑️2/4 (금) 오후" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/med_thumbnail.jpg?1643867861" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/541?utm_source=feed_sunny_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24305371&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/541?utm_source=feed_sunny_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24305371&amp;utm_medium=social</guid>
             <pubDate>Thu, 03 Feb 2022 00:59:36 GMT</pubDate>
@@ -500,21 +525,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Wed, 02 Feb 2022 01:02:57 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/5?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24272902&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/496771d8531a0d-LIB24272902/med_thumbnail.jpg?1643763532 240w, https://d320y51nxi12gs.cloudfront.net/sized/496771d8531a0d-LIB24272902/large_thumbnail.jpg?1643763532 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/496771d8531a0d-LIB24272902/med_thumbnail.jpg?1643763532" alt="#TAN 이 #심야아이돌 에 놀러왔습니다!
-
-야생에서 살아남은 소년들의 각종 생존법칙에 대한
-진지&amp;재밌는 얘기도 해보고!😍
-
-심돌오면 꼭 해보고 싶었던, 라이브도 열심히 해보고!🎉
-(근데 이제 대결을" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/496771d8531a0d-LIB24272902/med_thumbnail.jpg?1643763532" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -745,21 +762,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
   
 </span>
 
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/4?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025189&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
-            <guid>https://now.naver.com/show/4?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025189&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
-            <pubDate>Mon, 24 Jan 2022 04:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24025189&amp;utm_medium=social&amp;utm_source=linkin.bio">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
     </figure>
   </a>]]></content:encoded>
         </item>
