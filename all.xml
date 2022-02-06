@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 10:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -467,6 +467,29 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24383187&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24383187&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Sun, 06 Feb 2022 10:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24383187&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/a91f0f37530937-LIB24383187/med_thumbnail.jpg?1644139462 240w, https://d320y51nxi12gs.cloudfront.net/sized/a91f0f37530937-LIB24383187/large_thumbnail.jpg?1644139462 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/a91f0f37530937-LIB24383187/med_thumbnail.jpg?1644139462" alt="이번주 기분 요약📝
+
+내일 출근이라구 …..? 🥺
+길었던 설 연휴 후유증으로 짧게만 느껴졌던 주말😞
+
+☑️프로필 링크를 눌러 보고싶은 쇼 알림🔔 설정하기!
+☑️다시 보기는 VIBE 앱에서!" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/a91f0f37530937-LIB24383187/med_thumbnail.jpg?1644139462" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/2409?utm_source=post_99shadowWHEE_0204&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24338461&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/2409?utm_source=post_99shadowWHEE_0204&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24338461&amp;utm_medium=social</guid>
             <pubDate>Fri, 04 Feb 2022 01:00:24 GMT</pubDate>
@@ -530,23 +553,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Thu, 03 Feb 2022 06:22:30 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/593?utm_source=feed_freehug_0203&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24309505&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/med_thumbnail.jpg?1643867861 240w, https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/large_thumbnail.jpg?1643867861 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/med_thumbnail.jpg?1643867861" alt="#이영지 in #프리허그
-
-약속 지키러 온 게스트✌🏻
-프블리💜 대리설렘 준비완료?!🤩
-
-밍스트🍑 Z세대 최고인싸 영지와😆 텐션 지붕 뚫어🆙
-이번주 마무리도 불타는 프금으로❤️‍🔥
-
-☑️2/4 (금) 오후" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/d082fe0080801c-LIB24309505/med_thumbnail.jpg?1643867861" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -771,21 +784,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>https://now.naver.com/show/2409?utm_source=post_99shadowMM_0127&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24125417&amp;utm_medium=social</guid>
             <pubDate>Thu, 27 Jan 2022 06:23:02 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/2409?utm_source=post_99shadowMM_0127&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24125417&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/3189?utm_source=post_jangstreetTEI_0125&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24062212&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/3189?utm_source=post_jangstreetTEI_0125&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24062212&amp;utm_medium=social</guid>
-            <pubDate>Tue, 25 Jan 2022 07:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/3189?utm_source=post_jangstreetTEI_0125&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24062212&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
