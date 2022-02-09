@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 04:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -485,6 +485,25 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/721?utm_source=post_AOMIX_0209&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24462863&amp;utm_medium=social</link>
+            <guid>https://now.naver.com/show/721?utm_source=post_AOMIX_0209&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24462863&amp;utm_medium=social</guid>
+            <pubDate>Wed, 09 Feb 2022 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/721?utm_source=post_AOMIX_0209&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24462863&amp;utm_medium=social">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/f550a31c8ce211-LIB24462863/med_thumbnail.jpg?1644382921 240w, https://d320y51nxi12gs.cloudfront.net/sized/f550a31c8ce211-LIB24462863/large_thumbnail.jpg?1644382921 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/f550a31c8ce211-LIB24462863/med_thumbnail.jpg?1644382921" alt="매주 수요일 밤 9시에는 #AOMIX LIVE!
+시즌 2 첫 방송은 특별히 핫한 프로듀서 특집으로 꾸며집니다 🔥
+@_.peejay._ @jinbosuperfreak 와 함께 감각있는 믹스를 #AOMIX LIVE에서" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/f550a31c8ce211-LIB24462863/med_thumbnail.jpg?1644382921" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/4550?utm_source=post_2521tvndrama_0209&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24459539&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/4550?utm_source=post_2521tvndrama_0209&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24459539&amp;utm_medium=social</guid>
             <pubDate>Wed, 09 Feb 2022 01:07:02 GMT</pubDate>
@@ -545,19 +564,13 @@ Z세대의 아이콘 #영지 와 함께 힙했던 #프리허그 와 💜
             <pubDate>Tue, 08 Feb 2022 11:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/593?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24434906&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/1e4c290258ac53-LIB24434906/med_thumbnail.jpg?1644318559 240w, https://d320y51nxi12gs.cloudfront.net/sized/1e4c290258ac53-LIB24434906/large_thumbnail.jpg?1644318559 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/1e4c290258ac53-LIB24434906/med_thumbnail.jpg?1644318559" alt="🌟#프리허그 편성 시간 변경 🌟
-
-#최강창민 의 프리허그가 매주 금요일 오후 8시가 아닌 💜매주 수요일 오후 8시💜 로 변경되었습니다!
-
-재방송은 기존과 동일하게 바로 재방, 토요일 오후 4시, 화/목/일" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/1e4c290258ac53-LIB24434906/med_thumbnail.jpg?1644318559" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -804,21 +817,6 @@ Z세대의 아이콘 #영지 와 함께 힙했던 #프리허그 와 💜
             <guid>https://now.naver.com/show/1509?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24240679&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
             <pubDate>Tue, 01 Feb 2022 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/1509?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24240679&amp;utm_medium=social&amp;utm_source=linkin.bio">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/4?utm_source=post_jukjaeSOYOU_0131&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24207845&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/4?utm_source=post_jukjaeSOYOU_0131&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24207845&amp;utm_medium=social</guid>
-            <pubDate>Mon, 31 Jan 2022 07:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4?utm_source=post_jukjaeSOYOU_0131&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24207845&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
