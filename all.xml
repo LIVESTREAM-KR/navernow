@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달빛 창가에서 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[음악생활]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[에픽하이의 뉴 유닛
+“MT”의 본 헤이터즈 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[BORN HATERS]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
         <item>
             <title><![CDATA[국내 최초 스타 가족 골프대회!
 '쌍쌍 인비테이셔널 9화' (NAVER NOW. ─ 지금 방송중)]]></title>
@@ -17,8 +34,8 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[우리 생의
-결정적 로코쏭 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[오늘 굉장하다!
+OST다시듣기 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
@@ -79,12 +96,12 @@ VIVIZ 데뷔💐 (NAVER NOW. ─ 지금 방송중)]]></title>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[힐링특집
-with 휘인 🌷 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[문별이랑 예인이랑
+오늘 만나✨ (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[곽범, 이창호의 99가지 그림자]]></content:encoded>
+            <content:encoded><![CDATA[studio문나잇]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
