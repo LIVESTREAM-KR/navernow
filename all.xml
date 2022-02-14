@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 10:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 11:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,6 +458,40 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24585316&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24585316&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Mon, 14 Feb 2022 11:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24585316&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/e17621f1cedcd5-LIB24585316/med_thumbnail.jpg?1644836937 240w, https://d320y51nxi12gs.cloudfront.net/sized/e17621f1cedcd5-LIB24585316/large_thumbnail.jpg?1644836937 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/e17621f1cedcd5-LIB24585316/med_thumbnail.jpg?1644836937" alt="2월 3주 WEEKLY NOW.
+
+🔸화요일 오후 8시 #소문의아이들 #펜타곤
+사랑둥이 면스트 #미연 과 큐브 패밀리 펜타곤 선배님과의 파워당당 인터뷰!😎
+
+🔸수요일 오전 11시 #너에게음악 #이대휘
+너에게음악" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+        <span class="tLB--media__label tLB--media__label--type">
+  
+    <div style="width:15px" class="u--block">
+  
+  <i class="o--icon o--icon--gallery"></i>
+
+</div>
+
+
+  
+</span>
+
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/e17621f1cedcd5-LIB24585316/med_thumbnail.jpg?1644836937" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/368?utm_source=feed_pentagon_0214&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577414&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/368?utm_source=feed_pentagon_0214&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577414&amp;utm_medium=social</guid>
             <pubDate>Mon, 14 Feb 2022 02:02:11 GMT</pubDate>
@@ -510,13 +544,7 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Fri, 11 Feb 2022 04:23:45 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/?utm_source=post_0211&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24527135&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/1e54cc98d4fef2-LIB24527135/med_thumbnail.jpg?1644553242 240w, https://d320y51nxi12gs.cloudfront.net/sized/1e54cc98d4fef2-LIB24527135/large_thumbnail.jpg?1644553242 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/1e54cc98d4fef2-LIB24527135/med_thumbnail.jpg?1644553242" alt="#네이버NOW스튜디오
-
-#VIVIZ 의 설레는 첫 미니앨범 발매 순간을 함께한 #OUTNOW_VIVIZ ✨부터 
-#프리허그 재방문으로 #밍스트 와 케미 자랑하고 간 천재아이돌 #원호 까지🐰
-
-NOW.에는 매일매일" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
@@ -534,7 +562,6 @@ NOW.에는 매일매일" data-test-id="image" class="o--card__media qa--post_in_
 
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/1e54cc98d4fef2-LIB24527135/med_thumbnail.jpg?1644553242" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -776,32 +803,6 @@ NOW.에는 매일매일" data-test-id="image" class="o--card__media qa--post_in_
 
       <!---->
       <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24313171&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
-            <guid>https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24313171&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
-            <pubDate>Thu, 03 Feb 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24313171&amp;utm_medium=social&amp;utm_source=linkin.bio">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-        <span class="tLB--media__label tLB--media__label--type">
-  
-    <div style="width:15px" class="u--block">
-  
-  <i class="o--icon o--icon--gallery"></i>
-
-</div>
-
-
-  
-</span>
-
     </figure>
   </a>]]></content:encoded>
         </item>
