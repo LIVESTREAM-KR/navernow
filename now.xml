@@ -4,19 +4,9 @@
         <title>NAVER NOW. ─ 지금 방송중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 07:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 08:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[랜선투어
-'리뷰의 세계'
-남산 왕돈까스 편]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[팔팔마켓]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
         <item>
             <title><![CDATA[추억을 만나요~
 그때 in 가요]]></title>
@@ -27,12 +17,20 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[소문의 아이들🎀
-펜타곤 입장😎]]></title>
+            <title><![CDATA[- Check-In 🗝
+🍚윤지성🍚]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[소문의 아이들]]></content:encoded>
+            <content:encoded><![CDATA[심야아이돌]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[방과후 설렘 겨울캠프 2회 (재방)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 방과후 설렘]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -62,14 +60,6 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[방과후 설렘 겨울캠프 2회 (재방)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 방과후 설렘]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
             <title><![CDATA[호스트 윤상이랑
 같이듣는 빌보드]]></title>
             <link>http://now.naver.com/listen#</link>
@@ -84,24 +74,6 @@
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA['일장춘몽' 무비토크]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
-            <title><![CDATA[초콜릿🍫감성
-킹아더 임병근]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[커튼콜 뮤지컬쇼]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
-            <title><![CDATA[밍스트 생일파티🎂
-with.깜짝게스트]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[프리허그]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
