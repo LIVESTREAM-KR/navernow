@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 06:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 07:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -337,6 +337,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200521_273/uobDx_1590051066619jSccF_JPEG/65aa5cc3-9b3f-11ea-b0c3-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[싱어게인2 TOP3 NOW.투표 (NAVER NOW. ─ 네이버 포스트)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33336495&amp;memberNo=46872110</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33336495&amp;memberNo=46872110</guid>
+            <pubDate>Tue, 22 Feb 2022 07:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[싱어게인2 TOP3 투표방법 안내!파이널 라운드 TOP 6 최종 우승자는 누가 될 것인가? 당신의 주인공에게 온라인 사전 투표 하세요!1. 네이버에서 검색- 검색창에서 '싱어게인2'를 검색한 후, [기본정보] 탭에서 '투표···]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[<방과후 설렘> 알림 설정 이벤트 (NAVER NOW. ─ 네이버 포스트)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32965519&amp;memberNo=46872110</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32965519&amp;memberNo=46872110</guid>
@@ -473,14 +480,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966326&amp;memberNo=46872110</guid>
             <pubDate>Fri, 26 Nov 2021 20:52:16 GMT</pubDate>
             <content:encoded><![CDATA[누리끼리 평일 오후 7시 네이버 앱 NOW.연애썰, 영화썰, 덕후감, 내 귀에 띵곡! 매일 마다 병재만이 할 수 있는 색다른 코너들로 병재스러운 빅재미・꿀재미 선사!NOW. 누리끼리 방송 정보 방송듣기 월-금 오후 7시 ···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도티의 <오구오구>,
-평일 오후 5시 (NAVER NOW. ─ 네이버 포스트)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966292&amp;memberNo=46872110</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966292&amp;memberNo=46872110</guid>
-            <pubDate>Fri, 26 Nov 2021 20:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[오구오구 평일 오후 5시 네이버 앱 NOW. 입시, 취업, 직장생활의 스트레스에서 단 1시간이라도 벗어나 즐겁게 들을 수 있는 오디오쇼 오늘도 귀호강 달달 도라이브! 꿀통에 빠져~ 봅시다!NOW. 오구오구 방송 정보 방···]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
