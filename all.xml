@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 23:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 01:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -446,6 +446,29 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/368?utm_source=feed_gossipidleEUNBIYEIN_0222&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24786319&amp;utm_medium=social</link>
+            <guid>https://now.naver.com/show/368?utm_source=feed_gossipidleEUNBIYEIN_0222&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24786319&amp;utm_medium=social</guid>
+            <pubDate>Tue, 22 Feb 2022 01:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/368?utm_source=feed_gossipidleEUNBIYEIN_0222&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24786319&amp;utm_medium=social">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/med_thumbnail.jpg?1645491033 240w, https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/large_thumbnail.jpg?1645491033 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/med_thumbnail.jpg?1645491033" alt="#권은비 #정예인 in <#소문의아이들>
+
+너네 그 소문 들었니~?!
+🐰🐰❤️ 뭐?? 웅성웅성💛🐰🐰
+🐰💚🐰뭔데뭔데!! 웅성웅성🐰🐰💜
+
+건강을 위해 한주 쉬어가는 #면스트 를 대신해서 #대장토끼" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/med_thumbnail.jpg?1645491033" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/?utm_source=feed_FEBweek4_0221&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24762836&amp;utm_medium=social</link>
             <guid>https://now.naver.com/?utm_source=feed_FEBweek4_0221&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24762836&amp;utm_medium=social</guid>
             <pubDate>Mon, 21 Feb 2022 09:19:54 GMT</pubDate>
@@ -506,21 +529,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Sun, 20 Feb 2022 02:33:43 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/14379?utm_source=feed_OTThotblodd_0220&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24747991&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/2f4087d77618ad-LIB24747991/med_thumbnail.jpg?1645323936 240w, https://d320y51nxi12gs.cloudfront.net/sized/2f4087d77618ad-LIB24747991/large_thumbnail.jpg?1645323936 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/2f4087d77618ad-LIB24747991/med_thumbnail.jpg?1645323936" alt="#뜨거운피 #제작보고회 in NOW.
-
-망설이는 놈이 진다! 🔥3월 23일 #대개봉🔥 뜨거운 피!
-#정우 #김갑수 #최무성 #지승현 #이홍내 배우와
-#천명관 감독이 한 자리에 모여 제작보고회를 진행합니다🎬
-
-올" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/2f4087d77618ad-LIB24747991/med_thumbnail.jpg?1645323936" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -795,21 +810,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
   
 </span>
 
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/541?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577412&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
-            <guid>https://now.naver.com/show/541?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577412&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
-            <pubDate>Mon, 14 Feb 2022 02:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/541?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577412&amp;utm_medium=social&amp;utm_source=linkin.bio">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
     </figure>
   </a>]]></content:encoded>
         </item>
