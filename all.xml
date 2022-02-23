@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -455,6 +455,29 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/4?utm_source=feed_nightRAVI_0223&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24822717&amp;utm_medium=social</link>
+            <guid>https://now.naver.com/show/4?utm_source=feed_nightRAVI_0223&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24822717&amp;utm_medium=social</guid>
+            <pubDate>Wed, 23 Feb 2022 05:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4?utm_source=feed_nightRAVI_0223&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24822717&amp;utm_medium=social">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/d5c6ac740a20a8-LIB24822717/med_thumbnail.jpg?1645591859 240w, https://d320y51nxi12gs.cloudfront.net/sized/d5c6ac740a20a8-LIB24822717/large_thumbnail.jpg?1645591859 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/d5c6ac740a20a8-LIB24822717/med_thumbnail.jpg?1645591859" alt="#라비 in #야간작업실
+
+정규 2집 #LOVE&amp;FIGHT 를 발매한 라비가 놀러왔습니다👏🏻
+
+가장 오랜 시간 공을 들인 앨범이라고 하는데..🤔
+작업기부터 비하인드 스토리, 라이브 무대까지✨
+기대 많이" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/d5c6ac740a20a8-LIB24822717/med_thumbnail.jpg?1645591859" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/593?utm_source=feed_freehugWONPIL_0222&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24791891&amp;utm_medium=social</link>
             <guid>https://now.naver.com/show/593?utm_source=feed_freehugWONPIL_0222&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24791891&amp;utm_medium=social</guid>
             <pubDate>Tue, 22 Feb 2022 09:19:36 GMT</pubDate>
@@ -517,21 +540,13 @@ a.k.a #김다정💗사랑스러운 보컬 실력의 소유자 원필🐰
             <pubDate>Tue, 22 Feb 2022 01:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/368?utm_source=feed_gossipidleEUNBIYEIN_0222&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24786319&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/med_thumbnail.jpg?1645491033 240w, https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/large_thumbnail.jpg?1645491033 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/med_thumbnail.jpg?1645491033" alt="#권은비 #정예인 in <#소문의아이들>
-
-너네 그 소문 들었니~?!
-🐰🐰❤️ 뭐?? 웅성웅성💛🐰🐰
-🐰💚🐰뭔데뭔데!! 웅성웅성🐰🐰💜
-
-건강을 위해 한주 쉬어가는 #면스트 를 대신해서 #대장토끼" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/47a58112437a1e-LIB24786319/med_thumbnail.jpg?1645491033" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -788,21 +803,6 @@ a.k.a #김다정💗사랑스러운 보컬 실력의 소유자 원필🐰
             <guid>https://now.naver.com/show/368?utm_source=feed_pentagon_0214&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577414&amp;utm_medium=social</guid>
             <pubDate>Mon, 14 Feb 2022 02:02:11 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/368?utm_source=feed_pentagon_0214&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577414&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/2409?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577408&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
-            <guid>https://now.naver.com/show/2409?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577408&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
-            <pubDate>Mon, 14 Feb 2022 02:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/2409?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24577408&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
