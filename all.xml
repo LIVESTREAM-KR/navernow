@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 01:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 02:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -501,6 +501,30 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/show/2210?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24926737&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/show/2210?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24926737&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Sun, 27 Feb 2022 02:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/2210?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24926737&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/17781cab70f504-LIB24926737/med_thumbnail.jpg?1645927270 240w, https://d320y51nxi12gs.cloudfront.net/sized/17781cab70f504-LIB24926737/large_thumbnail.jpg?1645927270 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/17781cab70f504-LIB24926737/med_thumbnail.jpg?1645927270" alt="#커튼콜_갈라쇼
+
+대한민국 최고의 뮤지컬 음악감독 김문정과 
+뮤지컬계의 만찢남 #민우혁, 
+마성의 섹시 보이스 #이충주, 
+천상의 목소리, 상큼한 매력 #임혜영 등
+뮤지컬계의 톱스타 배우들이 함께하는 
+커튼콜 첫" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/17781cab70f504-LIB24926737/med_thumbnail.jpg?1645927270" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/?utm_source=feed_backtoschool_0226&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24920998&amp;utm_medium=social</link>
             <guid>https://now.naver.com/?utm_source=feed_backtoschool_0226&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24920998&amp;utm_medium=social</guid>
             <pubDate>Sat, 26 Feb 2022 14:17:47 GMT</pubDate>
@@ -567,22 +591,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Fri, 25 Feb 2022 07:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/529?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24888371&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/8a6b5529e68f1e-LIB24888371/med_thumbnail.jpg?1645773343 240w, https://d320y51nxi12gs.cloudfront.net/sized/8a6b5529e68f1e-LIB24888371/large_thumbnail.jpg?1645773343 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/8a6b5529e68f1e-LIB24888371/med_thumbnail.jpg?1645773343" alt="#차승원 in #세리자베스
-
-👑 Celebrity 👑
-나우궁전에 극뽁~❤️ 꽃이 피었습니다🌸 
-#세리자베스 가 직.접 모신 그 분🎵
-존재 자체가 화보인 배우! #차승원 
-
-10년이 넘는 #골프웨어 모델로" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/8a6b5529e68f1e-LIB24888371/med_thumbnail.jpg?1645773343" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -818,21 +833,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>https://now.naver.com/show/2409?utm_source=feed_99+nch_0217&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24682305&amp;utm_medium=social</guid>
             <pubDate>Thu, 17 Feb 2022 10:20:56 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/2409?utm_source=feed_99+nch_0217&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24682305&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/12?utm_source=feed_lunchattack+goldenchild_0217&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24679856&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/12?utm_source=feed_lunchattack+goldenchild_0217&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24679856&amp;utm_medium=social</guid>
-            <pubDate>Thu, 17 Feb 2022 08:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/12?utm_source=feed_lunchattack+goldenchild_0217&amp;utm_id=instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-24679856&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
