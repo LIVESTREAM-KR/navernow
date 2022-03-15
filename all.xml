@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,6 +543,29 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/player/14534?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25344866&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/player/14534?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25344866&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Tue, 15 Mar 2022 10:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/14534?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25344866&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/med_thumbnail.jpg?1647338124 240w, https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/large_thumbnail.jpg?1647338124 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/med_thumbnail.jpg?1647338124" alt="#마마무 #솔라 in <#OUTNOW>
+
+첫 미니앨범 '容 : FACE'와 함께 찾아온 
+솔라의 진솔한 이야기 in studio 문나잇 😍
+
+별콩이 언박싱하는 용콩의 새 앨범
+ ‘容 : FACE’의 모든" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/med_thumbnail.jpg?1647338124" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/3564?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25342908&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
             <guid>https://now.naver.com/show/3564?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25342908&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
             <pubDate>Tue, 15 Mar 2022 08:23:30 GMT</pubDate>
@@ -593,15 +616,7 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Mon, 14 Mar 2022 07:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/614?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25307800&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/3466eacae4f1f2-LIB25307800/med_thumbnail.jpg?1647241431 240w, https://d320y51nxi12gs.cloudfront.net/sized/3466eacae4f1f2-LIB25307800/large_thumbnail.jpg?1647241431 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/3466eacae4f1f2-LIB25307800/med_thumbnail.jpg?1647241431" alt="#박보람 그리고 사운드트랙#1 in #야간작업실
-
-#디즈니+ 오리지널 시리즈
-#한소희 X #박형식 주연의 사운드트랙#1’🎼
-
-선공개로 드라마 만큼 화제가 된 
-✨화려한 OST 라인업✨그 두번째 주자!
-‘박보람’이" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
@@ -619,7 +634,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
 
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/3466eacae4f1f2-LIB25307800/med_thumbnail.jpg?1647241431" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -853,21 +867,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>https://now.naver.com/show/721?utm_source=feed_AOMIX_0302&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25007189&amp;utm_medium=social</guid>
             <pubDate>Wed, 02 Mar 2022 04:25:13 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/721?utm_source=feed_AOMIX_0302&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25007189&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/593?utm_source=feed_freehugKMJ_0302&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25004686&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/593?utm_source=feed_freehugKMJ_0302&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25004686&amp;utm_medium=social</guid>
-            <pubDate>Wed, 02 Mar 2022 01:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/593?utm_source=feed_freehugKMJ_0302&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25004686&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
