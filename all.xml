@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 08:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -511,6 +511,39 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/player/14648?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25375998&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/player/14648?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25375998&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Wed, 16 Mar 2022 08:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/14648?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25375998&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/004a7c6a818a23-LIB25375998/med_thumbnail.jpg?1647418604 240w, https://d320y51nxi12gs.cloudfront.net/sized/004a7c6a818a23-LIB25375998/large_thumbnail.jpg?1647418604 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/004a7c6a818a23-LIB25375998/med_thumbnail.jpg?1647418604" alt="#OUTNOW 하이라이트 
+✨하이라이트 첫 정규 앨범 <DAYDREAM> 으로 컴백!
+
+그.리.고. 드디어 NOW에 찾아온 네 남자들 😍
+
+3월 21일 오후 5시! 
+최초 공개되는 수록곡 무대와" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+        <span class="tLB--media__label tLB--media__label--type">
+  
+    <div style="width:15px" class="u--block" data-test-id="video">
+  
+  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" class="o--icon o--icon--white"><path fill-opacity=".873" fill-rule="evenodd" d="M2.852 2.675c4.29-.548 8.64-.762 13.072-.642l6.166.322c.658.07 1.67.177 3.056.32.805.1 1.498.464 2.036 1.07.54.607.818 1.338.818 2.148v15.084c0 .74-.232 1.42-.685 2.006-.46.598-1.08.99-1.82 1.159A50.876 50.876 0 0114 25.474c-3.821 0-7.653-.444-11.49-1.331a3.131 3.131 0 01-1.825-1.16A3.225 3.225 0 010 20.977V5.893c0-.81.278-1.541.818-2.148a3.193 3.193 0 012.034-1.07zm12.993 1.356a82.743 82.743 0 00-12.743.629c-.325.04-.574.171-.79.414-.214.24-.312.499-.312.819v15.084c0 .297.086.547.269.785.175.227.39.364.687.431A48.877 48.877 0 0014 23.474c3.668 0 7.349-.426 11.047-1.282.293-.066.51-.203.684-.43.183-.238.269-.488.269-.785V5.893c0-.32-.098-.578-.313-.82a1.184 1.184 0 00-.768-.41c-1.367-.142-2.38-.248-2.987-.315zM10.72 7.5c.125 0 .255.026.39.078a32.49 32.49 0 012.852 1.344c.963.51 1.784.982 2.46 1.414.678.432 1.319.865 1.923 1.297.604.432 1.036.75 1.297.953.26.203.432.346.515.43.23.177.344.421.344.734a.949.949 0 01-.344.75c-2.948 2.365-5.963 4.172-9.047 5.422a1.087 1.087 0 01-.39.078.983.983 0 01-.516-.14c-.292-.178-.448-.428-.469-.75-.01-.084-.033-.352-.07-.805a55.836 55.836 0 01-.11-2.008A61.986 61.986 0 019.5 13.75c0-.813.018-1.659.055-2.54.036-.88.073-1.551.11-2.015.036-.463.059-.726.07-.789.02-.323.176-.578.468-.765a.983.983 0 01.516-.141z"></path></svg>
+
+</div>
+
+  
+</span>
+
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/004a7c6a818a23-LIB25375998/med_thumbnail.jpg?1647418604" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/show/4648?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25373219&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
             <guid>https://now.naver.com/show/4648?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25373219&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
             <pubDate>Wed, 16 Mar 2022 03:23:15 GMT</pubDate>
@@ -560,21 +593,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Tue, 15 Mar 2022 08:23:30 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/3564?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25342908&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/e85163d4af6096-LIB25342908/med_thumbnail.jpg?1647331777 240w, https://d320y51nxi12gs.cloudfront.net/sized/e85163d4af6096-LIB25342908/large_thumbnail.jpg?1647331777 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/e85163d4af6096-LIB25342908/med_thumbnail.jpg?1647331777" alt="3/15 7PM <#싱어게인2>TOP 6, NOW. 등장🎉
-
-김기태, 김소연, 윤성, 박현규, 이주혁, 신유미의
-특별한 라이브 스테이지!
-
-지금까지 들려주지 않았던
-그들의 가수인생 스토리와 숨은 매력까지 모두" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/e85163d4af6096-LIB25342908/med_thumbnail.jpg?1647331777" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -814,32 +839,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
 
       <!---->
       <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25042062&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
-            <guid>https://now.naver.com/show?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25042062&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
-            <pubDate>Thu, 03 Mar 2022 07:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25042062&amp;utm_medium=social&amp;utm_source=linkin.bio">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-        <span class="tLB--media__label tLB--media__label--type">
-  
-    <div style="width:15px" class="u--block" data-test-id="gallery">
-  
-  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" class="o--icon o--icon--white"><path fill-rule="evenodd" d="M25.2 23.8V5.88c1.68.56 2.8 2.1 2.8 3.92v14c0 2.38-1.82 4.2-4.2 4.2h-14c-1.82 0-3.36-1.12-3.92-2.8H23.8c.84 0 1.4-.56 1.4-1.4zM4.2 0h14c2.38 0 4.2 1.82 4.2 4.2v14c0 2.38-1.82 4.2-4.2 4.2h-14c-2.38 0-4.2-1.82-4.2-4.2v-14C0 1.82 1.82 0 4.2 0z"></path></svg>
-
-</div>
-
-
-  
-</span>
-
     </figure>
   </a>]]></content:encoded>
         </item>
