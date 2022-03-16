@@ -4,30 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 09:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[면역력을 살리는
-색다른 식이요법 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA['백현진'의
+온스테이지🎙 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[이재성 박사의 식탁보감]]></content:encoded>
+            <content:encoded><![CDATA[온스테이지2.0]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[온라인중고차🚗
-현대믿고사봐❓ (NAVER NOW. ─ 지금 방송중)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[장스트릿]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
-            <title><![CDATA[이세준-모닝 😀
-끝말잇기 선곡쇼 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[사연있어 보이는
+사람들의 모임 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
@@ -35,12 +26,11 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[올데이 야작실
-고퀄 밴드라이브 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[[Live] 오늘 경제 시황 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[야간작업실]]></content:encoded>
+            <content:encoded><![CDATA[삼프로TV 경제의 신과함께]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -88,6 +78,24 @@ JUST GO, TREASURE! (NAVER NOW. ─ 지금 방송중)]]></title>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
+            <title><![CDATA[올데이 야작실
+고퀄 밴드라이브 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[야간작업실]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[EP5. 세상을 따뜻하게
+만드는 재능 기부왕 찐 팬 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[프로덕션522]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
             <title><![CDATA[몬스타엑스 기현
 솔로앨범 첫라이브 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
@@ -97,12 +105,12 @@ JUST GO, TREASURE! (NAVER NOW. ─ 지금 방송중)]]></title>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[컴백 D-1💗
-위아이 왔다 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[온라인중고차🚗
+현대믿고사봐❓ (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[점심어택]]></content:encoded>
+            <content:encoded><![CDATA[장스트릿]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -122,6 +130,15 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA[Above Ordinary Mix]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[감성락커 정홍일
+미니팬미팅💖 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[응수C네]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -511,6 +528,26 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
+            <link>https://now.naver.com/player/10257?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25376869&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
+            <guid>https://now.naver.com/player/10257?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25376869&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
+            <pubDate>Wed, 16 Mar 2022 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/10257?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25376869&amp;utm_medium=social&amp;utm_source=linkin.bio">
+    <figure class="o--card__mediaContainer">
+        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/889d603d87e2e2-LIB25376869/med_thumbnail.jpg?1647421923 240w, https://d320y51nxi12gs.cloudfront.net/sized/889d603d87e2e2-LIB25376869/large_thumbnail.jpg?1647421923 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/889d603d87e2e2-LIB25376869/med_thumbnail.jpg?1647421923" alt="매주 수요일 밤 9시에는 #AOMIX LIVE!
+이번주 수요일은 
+@avalonixv @onnidiot 의 믹스셋을 #AOMIX LIVE에서 즐겨보세요!✨
+@aomixofficial 에서 비하인더씬 영상들도 놓치지" data-test-id="image" class="o--card__media qa--post_in_grid">
+
+      <b class="o--card__mediaOverlay"></b>
+
+      <!---->
+      <!---->
+    </figure>
+  </a>]]></content:encoded>
+            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/889d603d87e2e2-LIB25376869/med_thumbnail.jpg?1647421923" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
             <link>https://now.naver.com/player/14648?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25375998&amp;utm_medium=social&amp;utm_source=linkin.bio</link>
             <guid>https://now.naver.com/player/14648?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25375998&amp;utm_medium=social&amp;utm_source=linkin.bio</guid>
             <pubDate>Wed, 16 Mar 2022 08:23:38 GMT</pubDate>
@@ -570,21 +607,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <pubDate>Tue, 15 Mar 2022 10:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/player/14534?utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25344866&amp;utm_medium=social&amp;utm_source=linkin.bio">
     <figure class="o--card__mediaContainer">
-        <img srcset="https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/med_thumbnail.jpg?1647338124 240w, https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/large_thumbnail.jpg?1647338124 320w" sizes=" (max-width: 769px) 80px, 288px" src="https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/med_thumbnail.jpg?1647338124" alt="#마마무 #솔라 in <#OUTNOW>
-
-첫 미니앨범 '容 : FACE'와 함께 찾아온 
-솔라의 진솔한 이야기 in studio 문나잇 😍
-
-별콩이 언박싱하는 용콩의 새 앨범
- ‘容 : FACE’의 모든" data-test-id="image" class="o--card__media qa--post_in_grid">
-
+<!---->
       <b class="o--card__mediaOverlay"></b>
 
       <!---->
       <!---->
     </figure>
   </a>]]></content:encoded>
-            <enclosure url="https://d320y51nxi12gs.cloudfront.net/sized/42c261746f11b0-LIB25344866/med_thumbnail.jpg?1647338124" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
@@ -818,21 +847,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>https://now.naver.com/show/4758?utm_source=feed_drawingradio_0304&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25073609&amp;utm_medium=social</guid>
             <pubDate>Fri, 04 Mar 2022 05:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/4758?utm_source=feed_drawingradio_0304&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25073609&amp;utm_medium=social">
-    <figure class="o--card__mediaContainer">
-<!---->
-      <b class="o--card__mediaOverlay"></b>
-
-      <!---->
-      <!---->
-    </figure>
-  </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (NAVER NOW. ─ Link in Bio)]]></title>
-            <link>https://now.naver.com/show/529?utm_source=feed_serizabethteamkim_0304&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25071012&amp;utm_medium=social</link>
-            <guid>https://now.naver.com/show/529?utm_source=feed_serizabethteamkim_0304&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25071012&amp;utm_medium=social</guid>
-            <pubDate>Fri, 04 Mar 2022 02:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="o--card" rel="" href="https://now.naver.com/show/529?utm_source=feed_serizabethteamkim_0304&amp;utm_id=Instagram&amp;utm_campaign=later-linkinbio-now.kr&amp;utm_content=later-25071012&amp;utm_medium=social">
     <figure class="o--card__mediaContainer">
 <!---->
       <b class="o--card__mediaOverlay"></b>
