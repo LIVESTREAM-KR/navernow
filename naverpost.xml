@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.post.naver.com/my.naver?memberNo=46872110</id>
     <title>NAVER NOW. ─ 네이버 포스트</title>
-    <updated>2022-03-21T08:26:12.477Z</updated>
+    <updated>2022-03-21T09:20:21.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누구보다 먼저 NOW 앱을 만나보세요!]]></title>
+        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=33475940&amp;memberNo=46872110</id>
+        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=33475940&amp;memberNo=46872110"/>
+        <updated>2022-03-21T09:20:15.952Z</updated>
+        <content type="html"><![CDATA[NOW 앱이 출시됩니다!지금 가장 핫한, 내 취향에 딱인 영상, 그리고 NOW. 에서만 볼 수 있는 오리지널 쇼까지, 이제 NOW 앱에서 무료로 만날 수 있습니다. NOW 앱을 누구보다 먼저 만나고 싶다면 지금 사전등록하세···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP3 NOW.투표]]></title>
         <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=33336495&amp;memberNo=46872110</id>
@@ -141,13 +148,5 @@
         <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966338&amp;memberNo=46872110"/>
         <updated>2021-12-06T12:31:02.669Z</updated>
         <content type="html"><![CDATA[SAP 목요일 오후 8시 네이버 앱 NOW.당신의 삽질에 주목하는 오디오 ver. 1인 토크쇼 &lt;자이언티의 SAP&gt;! 매주 다양한 게스트를 초대해 삽질하는 이야기 해볼게요NOW. SAP 방송 정보 방송듣기 목요일 오후 8시 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유병재의 <누리끼리>,
-평일 오후 7시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966326&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966326&amp;memberNo=46872110"/>
-        <updated>2021-12-06T12:31:02.669Z</updated>
-        <content type="html"><![CDATA[누리끼리 평일 오후 7시 네이버 앱 NOW.연애썰, 영화썰, 덕후감, 내 귀에 띵곡! 매일 마다 병재만이 할 수 있는 색다른 코너들로 병재스러운 빅재미・꿀재미 선사!NOW. 누리끼리 방송 정보 방송듣기 월-금 오후 7시 ···]]></content>
     </entry>
 </feed>
