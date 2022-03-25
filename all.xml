@@ -4,20 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[BBC NEWS 라디오 나우 오픈! (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[📌 3/25 8PM   
+YGX 턴즈 스퀴드 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[BBC News Radio]]></content:encoded>
+            <content:encoded><![CDATA[THE X]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[vvvvvip만
-들어오세요 컴! (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[NEW코너!
+꼰대지옥에 온댸니 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[댸니쇼]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
+            <title><![CDATA[응답하라 3050
+불금나잇쏭! (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
@@ -33,20 +43,19 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
+            <title><![CDATA[BBC NEWS 라디오 나우 오픈! (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[BBC News Radio]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
             <title><![CDATA[NOW앱 예약 시작! (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA[NOW.]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
-            <title><![CDATA[📌 3/25 8PM   
-YGX 턴즈 스퀴드 (NAVER NOW. ─ 지금 방송중)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[THE X]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
@@ -76,6 +85,15 @@ YGX 턴즈 스퀴드 (NAVER NOW. ─ 지금 방송중)]]></title>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
+            <title><![CDATA[돈스파이크와
+고급음식토크🤤 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <link>http://now.naver.com/listen#</link>
+            <guid>http://now.naver.com/listen#</guid>
+            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[곽범, 이창호의 99가지 그림자]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+        <item>
             <title><![CDATA[윤상이 선곡해 온
 당신을 위한 음악 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
@@ -94,21 +112,12 @@ YGX 턴즈 스퀴드 (NAVER NOW. ─ 지금 방송중)]]></title>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
-            <title><![CDATA[✨️ Check-In 🗝
-문빈산하 딴콩즈 (NAVER NOW. ─ 지금 방송중)]]></title>
+            <title><![CDATA[아이키X이선빈
+댄스나잇🕺 (NAVER NOW. ─ 지금 방송중)]]></title>
             <link>http://now.naver.com/listen#</link>
             <guid>http://now.naver.com/listen#</guid>
             <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[심야아이돌]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-        </item>
-        <item>
-            <title><![CDATA[조심토론 번외
-(뜬구름 편) (NAVER NOW. ─ 지금 방송중)]]></title>
-            <link>http://now.naver.com/listen#</link>
-            <guid>http://now.naver.com/listen#</guid>
-            <pubDate>Mon, 06 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[JOJO CLUB]]></content:encoded>
+            <content:encoded><![CDATA[아이키의 떰즈업]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
