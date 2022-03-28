@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.post.naver.com/my.naver?memberNo=46872110</id>
     <title>NAVER NOW. ─ 네이버 포스트</title>
-    <updated>2022-03-28T04:24:50.827Z</updated>
+    <updated>2022-03-28T05:18:59.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NEWS] NOW 앱이 출시되었습니다!]]></title>
+        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=33526185&amp;memberNo=46872110</id>
+        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=33526185&amp;memberNo=46872110"/>
+        <updated>2022-03-28T05:18:54.234Z</updated>
+        <content type="html"><![CDATA[We Live NOW. NOW. 앱이 출시되었습니다! 지금 가장 핫한, 내 취향에 딱인 영상 네이버TV 콘텐츠 그리고 NOW. 에서만 볼 수 있는 오리지널 라이브 쇼까지, 이제는 원하는 시간에 바로바로 NOW. 앱을 통해 무료 감상···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누구보다 먼저 NOW 앱을 만나보세요!]]></title>
         <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=33475940&amp;memberNo=46872110</id>
@@ -140,13 +147,5 @@
         <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966359&amp;memberNo=46872110"/>
         <updated>2021-12-06T12:31:02.669Z</updated>
         <content type="html"><![CDATA[소셜클럽데이 화, 목 오후 2시 네이버 앱 NOW."사람들은 뭘 하고 살까?" 데이식스가 운영하는 다양하고 흥미로운 취미 공유 클럽에 놀러와NOW. 소셜클럽데이 방송 정보 방송듣기 화,목 오후 2시 다시듣기 ···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(시즌1 종료) 자이언티의 <SAP>,
-목요일 밤 8시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966338&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966338&amp;memberNo=46872110"/>
-        <updated>2021-12-06T12:31:02.669Z</updated>
-        <content type="html"><![CDATA[SAP 목요일 오후 8시 네이버 앱 NOW.당신의 삽질에 주목하는 오디오 ver. 1인 토크쇼 &lt;자이언티의 SAP&gt;! 매주 다양한 게스트를 초대해 삽질하는 이야기 해볼게요NOW. SAP 방송 정보 방송듣기 목요일 오후 8시 ···]]></content>
     </entry>
 </feed>

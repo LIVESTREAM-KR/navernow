@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,13 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200521_273/uobDx_1590051066619jSccF_JPEG/65aa5cc3-9b3f-11ea-b0c3-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NEWS] NOW 앱이 출시되었습니다! (NAVER NOW. ─ 네이버 포스트)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33526185&amp;memberNo=46872110</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33526185&amp;memberNo=46872110</guid>
+            <pubDate>Mon, 28 Mar 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[We Live NOW. NOW. 앱이 출시되었습니다! 지금 가장 핫한, 내 취향에 딱인 영상 네이버TV 콘텐츠 그리고 NOW. 에서만 볼 수 있는 오리지널 라이브 쇼까지, 이제는 원하는 시간에 바로바로 NOW. 앱을 통해 무료 감상···]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[누구보다 먼저 NOW 앱을 만나보세요! (NAVER NOW. ─ 네이버 포스트)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33475940&amp;memberNo=46872110</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33475940&amp;memberNo=46872110</guid>
@@ -478,14 +485,6 @@ AOMIX LIVE (NAVER NOW. ─ 지금 방송중)]]></title>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966359&amp;memberNo=46872110</guid>
             <pubDate>Fri, 26 Nov 2021 20:52:16 GMT</pubDate>
             <content:encoded><![CDATA[소셜클럽데이 화, 목 오후 2시 네이버 앱 NOW."사람들은 뭘 하고 살까?" 데이식스가 운영하는 다양하고 흥미로운 취미 공유 클럽에 놀러와NOW. 소셜클럽데이 방송 정보 방송듣기 화,목 오후 2시 다시듣기 ···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(시즌1 종료) 자이언티의 <SAP>,
-목요일 밤 8시 (NAVER NOW. ─ 네이버 포스트)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966338&amp;memberNo=46872110</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966338&amp;memberNo=46872110</guid>
-            <pubDate>Fri, 26 Nov 2021 20:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[SAP 목요일 오후 8시 네이버 앱 NOW.당신의 삽질에 주목하는 오디오 ver. 1인 토크쇼 &lt;자이언티의 SAP&gt;! 매주 다양한 게스트를 초대해 삽질하는 이야기 해볼게요NOW. SAP 방송 정보 방송듣기 목요일 오후 8시 ···]]></content:encoded>
         </item>
     </channel>
 </rss>
