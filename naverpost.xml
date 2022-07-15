@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.post.naver.com/my.naver?memberNo=46872110</id>
     <title>NAVER NOW. ─ 네이버 포스트</title>
-    <updated>2022-07-15T07:19:46.417Z</updated>
+    <updated>2022-07-15T08:26:18.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.post.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[NEWS] NOW 앱이 출시되었습니다!]]></title>
+        <title type="html"><![CDATA[NOW 앱이 출시되었습니다!]]></title>
         <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=33526185&amp;memberNo=46872110</id>
         <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=33526185&amp;memberNo=46872110"/>
         <updated>2022-03-28T05:18:54.234Z</updated>
