@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.post.naver.com/my.naver?memberNo=46872110</id>
     <title>NAVER NOW. ─ 네이버 포스트</title>
-    <updated>2022-07-20T04:43:42.955Z</updated>
+    <updated>2022-07-20T05:25:59.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.post.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[v.5.2 업데이트] 어제 놓친 쇼, 급상승 영상을 한눈에!]]></title>
+        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=34139480&amp;memberNo=46872110</id>
+        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=34139480&amp;memberNo=46872110"/>
+        <updated>2022-07-20T05:25:54.278Z</updated>
+        <content type="html"><![CDATA[We&nbsp;Live&nbsp;NOW.어제 놓친 쇼, 급상승 영상을 한눈에!영상 탐색에 최적화된 NOW.앱, 지금 만나보세요.지금 가장 핫한, 내 취향에 딱인 영상네이버TV 콘텐츠&nbsp;오직 NOW. 에서만 볼 수 있는오리지널 라이브 쇼와 VOD 다시···]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NOW 앱이 출시되었습니다!]]></title>
         <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=33526185&amp;memberNo=46872110</id>
@@ -139,13 +146,5 @@
         <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966444&amp;memberNo=46872110"/>
         <updated>2021-12-06T12:31:02.668Z</updated>
         <content type="html"><![CDATA[야간작업실 월-금 밤 11시 네이버 앱 NOW.심야에 딱 어울리는 잔잔한 심야 오디오쇼. 뮤지션의 뮤지션 적재는 어떤 뮤지션들을 좋아할까? 적재의 가슴에서 우러나오는 음악덕질 이야기... 들어 봅시다NOW. 야간작업···]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(종료) 데이식스의 <소셜클럽데이>, 
-화, 목 오후 2시]]></title>
-        <id>https://m.post.naver.com/viewer/postView.naver?volumeNo=27966359&amp;memberNo=46872110</id>
-        <link href="https://m.post.naver.com/viewer/postView.naver?volumeNo=27966359&amp;memberNo=46872110"/>
-        <updated>2021-12-06T12:31:02.669Z</updated>
-        <content type="html"><![CDATA[소셜클럽데이 화, 목 오후 2시 네이버 앱 NOW."사람들은 뭘 하고 살까?" 데이식스가 운영하는 다양하고 흥미로운 취미 공유 클럽에 놀러와NOW. 소셜클럽데이 방송 정보 방송듣기 화,목 오후 2시 다시듣기 ···]]></content>
     </entry>
 </feed>
